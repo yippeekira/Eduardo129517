@@ -26,7 +26,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que most
 
 - 🎯 Sempre buscando aprender e crescer na área de desenvolvimento.
 - 🌱 Atualmente estudando **Fullstack**.
-- 📫 Entre em contato: **seuemail@dominio.com**
+- 📫 Entre em contato: **eduardolui1295@gmail.com**
 
 ---
 
